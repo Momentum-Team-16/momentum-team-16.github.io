@@ -20,7 +20,7 @@ You won't be able to do all of it at once. Start with the html, adding in classe
 
 ## 🎯 Weekend Project: Build a Dog Adoption website
 
-[Link to the assignment invitation](https://classroom.github.com/a/R8pE8slZ)
+[Link to the assignment invitation](https://classroom.github.com/a/mVgvIW2g)
 
 This assignment is due on **Monday, Nov 7**, at 9:00 am.
 

@@ -36,6 +36,7 @@ This assignment is due on **Monday, Nov 7**, at 9:00 am.
 - [MDN CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [CSS-Tricks Getting Started with HTML & CSS](https://css-tricks.com/guides/beginner/)
 - [Rachel Andrew: How to Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+- [HTML Review and Basic CSS FreeCodeCamp exercises](https://www.freecodecamp.org/learn/responsive-web-design/)
 
 ### CSS Selectors & Properties
 

@@ -12,8 +12,8 @@ layout: default
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-team-15) -- all your assignment repos are located here
-- [Notes/slides from class](https://github.com/momentum-team-15/notes)
+- [Class GitHub organization](https://github.com/momentum-team-16) -- all your assignment repos are located here
+- [Notes/slides from class](https://github.com/momentum-team-16/notes)
 
 ## General References
 
@@ -23,4 +23,3 @@ layout: default
 - [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
 - [Julia Evans, How To Ask Good Questions](https://jvns.ca/blog/good-questions/)
 - [Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck](https://dev.to/rukiaasm/working-smarter-5-steps-to-getting-unstuck-with-rukia-sheikh-mohamed-1932)
-

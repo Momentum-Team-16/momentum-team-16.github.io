@@ -15,6 +15,7 @@ JavaScript Practice Exercises (choose your own adventure)
 - [MDN Breakout Game Tutorial](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 - [Free Code Camp Game Dev with JS](https://www.freecodecamp.org/news/learn-javascript-game-development-full-course/)
 - [Exercism JS Track](https://exercism.org/tracks/javascript)
+- [Code Wars JS Practice](https://www.codewars.com/collections/js-practice)
 
 Pre-work for DOM Manipulation Next Week
 

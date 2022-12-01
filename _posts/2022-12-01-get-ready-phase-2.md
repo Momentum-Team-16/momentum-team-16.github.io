@@ -12,7 +12,7 @@ In order to prepare for phase 2, please:
 
 2. Have a look at the introductory notes on Python:
 
-   - [Intro](https://github.com/Momentum-Team-16/notes.git)
+   - [Intro](https://github.com/Momentum-Team-16/notes/blob/main/py-intro.md)
    - [Collections](https://github.com/Momentum-Team-16/notes/blob/main/py-collections.md)
 
 3. (OPTIONAL) To get a head start, check out one or more of these introductory Python tutorials.

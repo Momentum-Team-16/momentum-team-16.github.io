@@ -35,4 +35,4 @@ In class and for homework, we will work on the exercises from Google's Python co
 
 ## 🦉 Code & Notes
 
-- [Notes: Intro to Python](https://github.com/momentum-team-16/notes/blob/main/intro-python.md)
+- [Notes: Intro to Python](https://github.com/momentum-team-16/notes/blob/main/py-intro.md)

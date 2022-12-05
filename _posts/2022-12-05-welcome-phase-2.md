@@ -35,6 +35,4 @@ In class and for homework, we will work on the exercises from Google's Python co
 
 ## 🦉 Code & Notes
 
-- [Notes: Intro to Python](https://github.com/momentum-team-15/notes/blob/main/intro-python.md)
-- [Notebooks Prequel: the Force Awakens](https://github.com/Momentum-Team-15/notes/blob/main/py-notebooks-prequel.md)
-- [Intro to Python notebooks](https://github.com/Momentum-Team-15/python-notebooks) (**Notebooks 1-5**)
+- [Notes: Intro to Python](https://github.com/momentum-team-16/notes/blob/main/intro-python.md)

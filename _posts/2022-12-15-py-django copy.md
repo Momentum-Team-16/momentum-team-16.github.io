@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🦄 More Django 🦄
+title: 🦄 🦄 More Django 🦄 🦄
 tags: phase-2 python
 ---
 

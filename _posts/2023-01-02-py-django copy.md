@@ -9,11 +9,11 @@ tags: phase-2 python
 This week, we will be building a music collection app with Django. Each day, we will take a closer look at the components of a Django app. The plan (will adjust as needed) is:
 
 - Monday:
-  - Review and questions
-  - setup and virtual environments
-  - models
-  - database
-  - migrations
+  - review and questions
+  - [setup and virtual environments](https://www.notion.so/momentumlearn/Starting-a-new-Django-project-071f052d07cc4ea6bdf998eb9e4a4a3c)
+  - [users](https://github.com/Momentum-Team-16/notes/blob/main/django-users.md)
+  - [models](https://github.com/Momentum-Team-16/notes/blob/main/django-models.md)
+  - [database & migrations](https://github.com/Momentum-Team-16/notes/blob/main/django-database-and-migrations.md)
 - Tuesday:
   - urls
   - views

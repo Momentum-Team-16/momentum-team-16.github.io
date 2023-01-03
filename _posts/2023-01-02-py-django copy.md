@@ -13,15 +13,15 @@ This week, we will be building a music collection app with Django. Each day, we 
   - review and questions
   - [setup and virtual environments](https://www.notion.so/momentumlearn/Starting-a-new-Django-project-071f052d07cc4ea6bdf998eb9e4a4a3c)
   - [users](https://github.com/Momentum-Team-16/notes/blob/main/django-users.md)
-  - [models](https://github.com/Momentum-Team-16/notes/blob/main/django-models.md)
   - [database & migrations](https://github.com/Momentum-Team-16/notes/blob/main/django-database-and-migrations.md)
   - 🧙🏼[Rebecca's MTG code example](https://github.com/Momentum-Team-16/django-music-rlconley)
 
 - Tuesday:
+  - [models](https://github.com/Momentum-Team-16/notes/blob/main/django-models.md)
+  - [ORM and queries](https://github.com/Momentum-Team-16/notes/blob/main/django-queries.md)
+    - using the shell to interact with the database
   - urls
   - views
-  - ORM and queries
-  - using the shell to interact with the database
 - Wednesday
   - Django template language
   - Debugging with Django Debug Toolbar
@@ -37,7 +37,8 @@ This week, we will be building a music collection app with Django. Each day, we 
 
 - [MDN Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 - [Pretty Printed Django Videos](https://www.youtube.com/watch?v=QVX-etwgvJ8)
-- [Corey Schaefer Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) [Mosh Django Tutorial](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
+- [Corey Schaefer Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [Mosh Django Tutorial](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
 
 ## 🦉 Notes
 
